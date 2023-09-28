@@ -24,6 +24,8 @@ update your angular.json "scrşots" with
    "node_modules/jquery/dist/jquery.min.js",
    "node_modules/datatables.net/js/jquery.dataTables.js",
 
+For further information: https://datatables.net/
+
 
 ## TAIGA UI Integration
 
